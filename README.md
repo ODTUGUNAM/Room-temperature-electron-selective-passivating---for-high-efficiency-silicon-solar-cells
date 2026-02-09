@@ -3,9 +3,9 @@
 This repository shares the SCAPS simulation files and supporting material used in our JV fitting and analysis.
 
 ### Repository structure
-- **Typical device fits/**: SCAPS files fitted to representative devices (fits based on **mean/average JV metrics**).
-- **Champion fits/**: SCAPS files fitted to **champion devices**. The **experimental champion JV metrics** used as fitting targets are included in this folder.
-- **Figures/**: Figures used in the manuscript / supporting material.
+- **Typical device fits**: SCAPS files fitted to representative devices (fits based on **mean/average JV metrics**).
+- **Champion fits**: SCAPS files fitted to **champion devices**. The **experimental champion JV metrics** used as fitting targets are included in this folder.
+- **Figures**: Figures used in the manuscript / supporting material.
 
 ### Running the simulations
 1. Clone or download the repository.
