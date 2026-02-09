@@ -27,7 +27,7 @@ A **PDF in the main directory** includes additional simulation results and a dis
 
 ## Citation
 If you use these files, please cite the paper at:
-DOI: https://doi.org/10.1039/D5TA07082A
+ https://doi.org/10.1039/D5TA07082A
 
 
 Arranged by: Mohammad Dehnavi
