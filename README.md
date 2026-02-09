@@ -24,3 +24,7 @@ This repository shares the SCAPS simulation files and supporting material used i
 
 ### More details
 A **PDF in the main directory** includes additional simulation results and a discussion addressing referee suggestions and requests for readers who want deeper modeling context.
+
+
+
+Arranged by: Mohammad Dehnavi
