@@ -11,10 +11,10 @@ This repository shares the SCAPS simulation files and supporting material used i
 1. Clone or download the repository.
 2. Open the relevant SCAPS file (typical or champion) in **SCAPS 1D**.
 
-3. **Start with the champion-device fits** (`Champion fits/`).  
+3. **Start with the champion-device fits** (`Champion fits`).  
    These fits are anchored to measured experimental JVs and are provided as a practical starting point to develop intuition for *realistic* layer/interface parameter ranges and their influence on the JV response.
 
-4. **Move to the typical-device fits** (`Typical device fits/`).  
+4. **Move to the typical-device fits** (`Typical device fits`).  
    Once you have a feel for the parameter space, use the typical-device fits (based on mean/average JV metrics) for **reproducibility**, **interpretation**, and **stack-to-stack comparison**. These files represent the **final fitted results reported in the paper**.
 
 3. **Extend as needed**  
