@@ -25,7 +25,11 @@ This repository shares the SCAPS simulation files and supporting material used i
 ### More details
 A **PDF in the main directory** includes additional simulation results and a discussion addressing referee suggestions and requests for readers who want deeper modeling context.
 
+## Citation
+If you use these files, please cite:
 
+**[Author Names]**, “Hybrid sequential processing of mixed Sn–Pb narrow-bandgap perovskite solar cells,” 2025.  
+DOI: https://doi.org/10.1039/D5TA07082A
 
 
 Arranged by: Mohammad Dehnavi
